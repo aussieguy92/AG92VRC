@@ -1,0 +1,4 @@
+=26th April=
+* Added changelog board
+* Rebaked using higher res lightmapping
+* Moved and decorated private room
