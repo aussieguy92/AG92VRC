@@ -2,3 +2,15 @@
 * Added changelog board
 * Rebaked using higher res lightmapping
 * Moved and decorated private room
+
+=5th June=
+- Portal room added
+- Added objects abled to be picked up
+
+====
+Next
+====
+- Bedroom TV toggle to move TV closer to bed
+- Will fix skybox that isn't showing for some unknown reason
+- Fixing the pool water so you don't get stuck, might be due to new water shader.
+- Will be updating the lighting and improving some of the darkness. For some reason this world looks better on Quest.
